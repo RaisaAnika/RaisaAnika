@@ -15,7 +15,7 @@
         <li> 🎓 I am studying at <a href="https://umich.edu/">University of Michigan</a> </li>
         <li> 💻 I worked for <a href="https://wwww.mghgroup.com/">MGH GROUP</a> IT Team </li>
         <li> 💼 I mananaged IT projects & Research, Design, Analyze Business Data for Insights and ML applications </li>
-        <li>🔬 I have a <a href= "https://ieeexplore.ieee.org/author/37086325068">published paper in IEEE</a>  on CNN & Image processing to convert sign languague to Bangla Alphabets in 2017 </li>
+        <li>🔬 I have a <a href= "https://ieeexplore.ieee.org/author/37086325068">published paper in IEEE</a>  on CNN & Image processing utilized to convert sign languague to Bangla Alphabets in 2017 </li>
         <li> 🌱 I’m currently learning - Data Mining Massive DataSets</li>
         <li> 🧐 Keen to pursue academic research in NLP and RNN for therapeutic chatbots</li>
         <li> 📊 My <a href= "https://eportfolio.greatlearning.in/anika-chowdhury ">e-portfolio</a> of completed Machine Learning Projects during my post graduate program @ <a href="https://www.mccombs.utexas.edu/execed/take-a-class/greatlearning">UTAustin</a> </li>
