@@ -1,5 +1,5 @@
 
-<img src ="https://gpvc.arturio.dev/RaisaAnika"> <img src = "https://img.shields.io/badge/Data Analysis-Lover- brightgreen) "> <img src = "https://img.shields.io/badge/NLP-Enthusiast- blueviolet) ">  <img src = "https://img.shields.io/badge/Research-Lover- brightgreen) "> <img src = "https://img.shields.io/badge/Experience-4+ years- yellow) "> 
+<img src ="https://gpvc.arturio.dev/RaisaAnika"> <img src = "https://img.shields.io/badge/Data Analysis-Lover- brightgreen) "> <img src = "https://img.shields.io/badge/NLP-Enthusiast- blueviolet) ">  <img src = "https://img.shields.io/badge/Research-Lover- brightgreen) "> <img src = "https://img.shields.io/badge/Experience-7+ years- yellow) "> 
 
 
 <!-- 
