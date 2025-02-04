@@ -12,7 +12,7 @@
     <td>
       <ul>
         <li> Hey there, I am <strong> Anika Raisa Chowdhury </strong> </li>
-        <li> 🎓 I am studying at <a href="https://umich.edu/">University of Michigan</a> </li>
+        <li> 🎓 I completed my masters in Data Science from <a href="https://umich.edu/">University of Michigan</a> </li>
         <li> 💻 I worked for <a href="https://wwww.mghgroup.com/">MGH GROUP</a> IT Team </li>
         <li> 💼 I mananaged IT projects & Research, Design, Analyze Business Data for Insights and ML applications </li>
         <li>🔬 I have a <a href= "https://ieeexplore.ieee.org/author/37086325068">published paper in IEEE</a>  on CNN & Image processing utilized to convert sign languague to Bangla Alphabets in 2017 </li>
