@@ -18,7 +18,7 @@
         <li>🔬 I have a <a href= "https://ieeexplore.ieee.org/author/37086325068">published paper in IEEE</a>  on CNN & Image processing utilized to convert sign languague to Bangla Alphabets in 2017 </li>
         <li> 🌱 I’m currently learning - Data Mining Massive DataSets</li>
         <li> 🧐 Keen to pursue academic research in the intersection of AI and healthcare and Human Computer Interaction, AI fairness and privacy</li>
-        <li> 💼 My work with Michigan Medicine : <a  href = "https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/KB/ArticleDet?ID=10603" </a></li>
+        <li> 💼 My work with Michigan Medicine : <a  href = "https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/KB/ArticleDet?ID=10603">article </a></li>
         <li> 📊 My <a href= "https://eportfolio.greatlearning.in/anika-chowdhury ">e-portfolio</a> of completed Machine Learning Projects during my post graduate program @ <a href="https://www.mccombs.utexas.edu/execed/take-a-class/greatlearning">UTAustin</a> </li>
 <!--         <br> -->
         <h4> ⚡ 👑 <strong> More About Me: </strong>  📚 🏊‍♀️ </h4>
