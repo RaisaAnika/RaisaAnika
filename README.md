@@ -17,7 +17,8 @@
         <li> 💼 I mananaged IT projects & Research, Design, Analyze Business Data for Insights and ML applications </li>
         <li>🔬 I have a <a href= "https://ieeexplore.ieee.org/author/37086325068">published paper in IEEE</a>  on CNN & Image processing utilized to convert sign languague to Bangla Alphabets in 2017 </li>
         <li> 🌱 I’m currently learning - Data Mining Massive DataSets</li>
-        <li> 🧐 Keen to pursue academic research in NLP and RNN for therapeutic chatbots</li>
+        <li> 🧐 Keen to pursue academic research in the intersection of AI and healthcare and Human Computer Interaction, AI fairness and privacy</li>
+        <li> 💼 My work with Michigan Medicine : <a  https://teamdynamix.umich.edu/TDClient/210/DepressionCenter/KB/ArticleDet?ID=10603 </a></li>
         <li> 📊 My <a href= "https://eportfolio.greatlearning.in/anika-chowdhury ">e-portfolio</a> of completed Machine Learning Projects during my post graduate program @ <a href="https://www.mccombs.utexas.edu/execed/take-a-class/greatlearning">UTAustin</a> </li>
 <!--         <br> -->
         <h4> ⚡ 👑 <strong> More About Me: </strong>  📚 🏊‍♀️ </h4>
@@ -25,7 +26,7 @@
         <li> BookWorm, Travelbug and Swimmer when not coding or nose deep in studying. 🤷‍♀️  </li>
       </ul>
         <h4>I can be reached over:</h4>
-        <a href="mailto:raisaanika.3@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v2.png"/></a> 
+        <a href="mailto:acchowwzz@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v2.png"/></a> 
         <a href="https://www.linkedin.com/in/anikaraisa/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> 
     </td>
   </tr>
